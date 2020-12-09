@@ -7,4 +7,4 @@ gitacp()
   git push -u origin main
 }
 
-gitacp $@
+gitacp "$@"
